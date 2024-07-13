@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "food",
+  "pattern": [
+    "aba",
+    " a ",
+    "   "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:wheat"
+    },
+    "b": {
+      "item": "minecraft:cooked_porkchop"
+    }
+  },
+  "result": {
+    "id": "minecraft:cooked_porkchop",
+    "components": {
+      "minecraft:item_name": "[{'text': 'Arepa awuita de sapo'}]",
+      "custom_model_data": 6830003,
+      "minecraft:food": {
+        "nutrition": 10,
+        "saturation": 12.8
+      }
+    }
+  }
+}

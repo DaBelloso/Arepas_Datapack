@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "food",
+  "pattern": [
+    "cdc",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:wheat"
+    },
+    "b": {
+      "item": "minecraft:cooked_chicken"
+    },
+    "c": {
+      "item": "minecraft:gold_nugget"
+    },
+    "d": {
+      "item": "minecraft:slime_ball"
+    }
+  
+  },
+  "result": {
+    "id": "minecraft:cooked_chicken",
+    "components": {
+      "minecraft:item_name": "[{'text': 'Arepa reina pepiada'}]",
+      "custom_model_data": 6830006,
+      "minecraft:food": {
+        "nutrition": 10,
+        "saturation": 8.5
+      }
+    }
+  }
+}

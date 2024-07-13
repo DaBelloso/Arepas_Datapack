@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "food",
+  "pattern": [
+    "a a",
+    " a ",
+    "   "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "result": {
+    "id": "minecraft:bread",
+    "components": {
+      "minecraft:item_name": "[{'text': 'Arepa'}]",
+      "custom_model_data": 6830001,
+      "minecraft:food": {
+        "nutrition": 5,
+        "saturation": 6
+      }
+    }
+  }
+}

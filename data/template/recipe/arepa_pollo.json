@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "food",
+  "pattern": [
+    "aba",
+    " a ",
+    "   "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:wheat"
+    },
+    "b": {
+      "item": "minecraft:cooked_chicken"
+    }
+  },
+  "result": {
+    "id": "minecraft:cooked_chicken",
+    "components": {
+      "minecraft:item_name": "[{'text': 'Arepa de pollo'}]",
+      "custom_model_data": 6830005,
+      "minecraft:food": {
+        "nutrition": 8,
+        "saturation": 7.2
+      }
+    }
+  }
+}

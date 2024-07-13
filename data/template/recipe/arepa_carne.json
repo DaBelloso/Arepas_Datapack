@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "food",
+  "pattern": [
+    "aba",
+    " a ",
+    "   "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:wheat"
+    },
+    "b": {
+      "item": "minecraft:cooked_beef"
+    }
+  },
+  "result": {
+    "id": "minecraft:cooked_beef",
+    "components": {
+      "minecraft:item_name": "[{'text': 'Arepa de Carne'}]",
+      "custom_model_data": 6830002,
+      "minecraft:food": {
+        "nutrition": 10,
+        "saturation": 12.8
+      }
+    }
+  }
+}
